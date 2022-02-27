@@ -1,2 +1,2 @@
 # CFn_template
-Run aws rain command to get template
+Run aws_cli rain command to get template
